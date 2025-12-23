@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KianRK
 - 👀 I’m mostly interested in backend development, machine/deep learning, robotics, IoT.
-- 🌱 I'm currently mainly focused on learning Python, because I want to dig into machine/deep learning, when my schedule allows for it. Also I want to get more familiar with Git/GitHub to manage some private projects.
 - 📫 KRaj #6706 on Discord
 
 <!---
